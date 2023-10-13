@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-gradient-to-t from-transparent to-white relative">
-        <div class="mix-blend-overlay h-[82vh] bg-[url('../src/assets/error.png')] bg-cover bg-center">
+    <div class=" relative">
+        <div class=" h-[82vh] bg-[url('../src/assets/error.png')] bg-cover bg-center">
         </div>
         <div class="absolute top-[15%] left-1/2 transform -translate-x-1/2 text-center flex flex-col justify-center items-center">
             <h1 class="font-asul font-bold text-2xl md:text-4xl">404</h1>

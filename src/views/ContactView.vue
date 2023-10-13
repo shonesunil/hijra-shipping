@@ -20,8 +20,12 @@
                 </div>
             </div>
             <div class="mt-8 md:mt-12">
+                <span class="block uppercase text-xs md:text-sm font-light">Timings</span>
+                <span class="block text-base md:text-2xl mt-2">Mon - Fri | 8:00 AM- 5:00 PM<br>Sat | 8:00 AM- 2:00 PM</span>
+            </div>
+            <div class="mt-8 md:mt-12">
                 <span class="block uppercase text-xs md:text-sm font-light">Our Office</span>
-                <span class="block text-base md:text-2xl mt-2">HIJRA, Corporate Office No. 34, Al Fardha B, Dubai Customs, Bur Dubai, P.O BOX N0. 117663, Dubai, United Arab Emirates</span>
+                <span class="block text-base md:text-2xl mt-2">HIJRA, Corporate Office No. 34,<br>Al Fardha B, Dubai Customs, Bur Dubai,<br>P.O BOX N0. 117663,<br>Dubai, United Arab Emirates</span>
             </div>
             <div class="mt-8 md:mt-12">
                 <iframe class="w-full h-[320px] md:h-[420px]" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3608.517711064569!2d55.278770475383546!3d25.253164277675005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjXCsDE1JzExLjQiTiA1NcKwMTYnNTIuOCJF!5e0!3m2!1sen!2sin!4v1696690477708!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

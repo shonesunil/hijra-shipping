@@ -2,25 +2,22 @@
     <div class="px-4 py-5 md:py-0 font-raleway">
         <img class="hidden md:block h-[80vh] w-full object-cover brightness-50" src="../../assets/custom-clearance/custom-clearance-main.jpeg" alt="">
         <div class="flex flex-nowrap overflow-x-auto md:hidden">
-            <div class="shrink-0 h-[85vh] w-full mr-2">
+            <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
             <img class="w-full h-full object-cover" src="../../assets/custom-clearance/custom-clearance-main.jpeg" alt="">
             </div>
-            <div class="shrink-0 h-[85vh] w-full mr-2">
+            <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
             <img class="w-full h-full object-cover" src="../../assets/custom-clearance/custom-clearance-4.jpeg" alt="">
             </div>
-            <div class="shrink-0 h-[85vh] w-full mr-2">
+            <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
             <img class="w-full h-full object-cover object-left" src="../../assets/custom-clearance/custom-clearance-2.jpeg" alt="">
             </div>
         </div>
         <div class="md:flex justify-between md:pl-24">
-            <div class="mt-10 md:mt-16 md:mb-60 md:mr-40 basis-2/3">
-                <h1 class="font-playfair text-2xl md:text-5xl font-semibold">Custom Clearance</h1>
-                <div class="mt-8 text-justify">
-                    <p class="mb-8">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE, offering full range of freight business with the strong footing on the industry- experience.</p>
-                    <p class="mb-8">The company&apos;s present excellence can be attributed to its professional management approach along with long-serving customers across various industries, With more than a decade&apos;s reliable experience and in-depth knowledge of the freight forwarding industry, we have been able to provide state-of-the-art services to our clients worldwide.</p>
-                    <p class="">The company&apos;s Sea, Air & Land operations are fully networked with UAE Ports & Customs online facilities which enable us to provide prompt and fast services to our valued clients.</p>
-                    <p class="mb-8">We accept import & export around the world through our well-chosen worldwide agency networks so as to match our mission - Total Logistics Provider and offer highly professional and personalized service.</p>
-                    <p class="">Our devoted and efficient employees are proficient with the intricacies of cargo transport which encompasses everything from documentation, to negotiating carrier rates, to tracking the shipment without compromising the foreign trade regulations.</p>
+            <div class="my-10 md:mt-16 md:mb-60 md:mr-40 basis-2/3">
+                <h1 class="font-playfair text-[28px] md:text-5xl font-semibold">Custom Clearance</h1>
+                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg">
+                    <p>Hijra Shipping & Forwarding LLC is one of the leading Customs Clearing agents in UAE, providing a wide variety of services to assist customers in import and export customs clearances. Our company is always updated with modernized customs laws and systems. Hijra Shipping & Forwarding maintains the clearance of Sea, Air, and Land consignments more effectively.</p><br>
+                    <p>We are a trustworthy and famous Customs clearance agent in Dubai, Sharjah, and Abu Dhabi providing excellent custom clearing services in the United Arab Emirates. We handle your parcel delivery with the expertise and care that you would expect from the world&apos;s leading Logistics Company.</p>
                 </div>
             </div>
             <div class="hidden mt-7 mr-12 md:grid grid-flow-row grid-cols-10 basis-1/3">

@@ -11,7 +11,7 @@
           </div>
           <div class="absolute top-[70%] left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Transportation</span>
-            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE</span>
+            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Leading UAE land transportation company with a wide range of services for safe and timely delivery.</span>
           </div>
         </router-link>
       </div>
@@ -21,7 +21,7 @@
           </div>
           <div class="absolute top-[70%] left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Freight (Sea/Air)</span>
-            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE</span>
+            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Offering competitive air and ocean freight solutions with the assurance of guaranteed space on our weekly sailings.</span>
           </div>
         </router-link>
       </div>
@@ -31,7 +31,7 @@
           </div>
           <div class="absolute top-[70%] left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Contract Logistics</span>
-            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE</span>
+            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">We streamline supply chains in the UAE by actively handling transportation, warehousing, and order fulfillment.</span>
           </div>
         </router-link>
       </div>
@@ -41,7 +41,7 @@
           </div>
           <div class="absolute top-[70%] left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Custom Clearance</span>
-            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE</span>
+            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">We excel in import/export customs clearances for Sea, Air, and Land consignments, serving Dubai, Sharjah, and Abu Dhabi.</span>
           </div>
         </router-link>
       </div>
@@ -51,7 +51,7 @@
           </div>
           <div class="absolute top-[70%] left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Warehousing</span>
-            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE</span>
+            <span class="block font-raleway text-xs md:text-sm lg:text-base font-light mt-4">We provide secure, technology-equipped warehousing services in the UAE, ensuring the safety and reliability of your goods.</span>
           </div>
         </router-link>
       </div>

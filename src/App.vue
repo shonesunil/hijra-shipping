@@ -1,14 +1,12 @@
 <template>
   <Landing v-if="showLandingPage" @fade-out-landing="fadeOutLanding" />
   <HeaderCmp />
-  <!-- <TestHeader /> -->
   <router-view/>
   <Footer></Footer>
 </template>
 
 <script>
   import HeaderCmp from './components/Header.vue'
-  // import TestHeader from './components/TestHeader.vue'
   import Footer from './components/Footer.vue'
   import Landing from './components/Landing.vue'
 
@@ -16,19 +14,18 @@
   name: 'App',
   components: {
     HeaderCmp,
-    // TestHeader,
     Footer,
     Landing
   },
   data() {
     return {
-      showLandingPage: true
+      showLandingPage: false
     }
   },
   methods: {
     fadeOutLanding() {
-      const body = document.querySelector('#main')
-      body.classList.remove('overflow-hidden')
+      // const body = document.querySelector('#main')
+      // body.classList.remove('overflow-hidden')
       setTimeout(() => {
         this.showLandingPage = false;
       }, 500);
@@ -55,6 +52,10 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background: #bebdba;
+}
+
+body {
+  background-color: #F1F1F1;
 }
 
 @supports (scrollbar-color: #aaa9a6 #5c5a58) {

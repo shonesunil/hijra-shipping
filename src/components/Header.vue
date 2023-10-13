@@ -20,6 +20,7 @@
 
         <!-- desktop nav -->
         <nav class="font-raleway text-sm font-normal hidden md:block">
+            <router-link class="px-5 py-3" to="/">Home</router-link>
             <router-link class="px-5 py-3" to="/about">About Us</router-link>
             <router-link class="px-5 py-3" to="/services">Our Services</router-link>
             <router-link class="px-5 py-3" to="/contact">Contact Us</router-link>
@@ -30,10 +31,13 @@
             <nav class="font-raleway text-2xl font-light py-5 px-4">
                 <ul>
                     <li class="py-5">
-                        <router-link class="" to="/about">About Us</router-link>
+                        <router-link @click="toggleBurger" class="" to="/">Home</router-link>
+                    </li>
+                    <li class="py-5">
+                        <router-link @click="toggleBurger" class="" to="/about">About Us</router-link>
                     </li>
                     <li class="py-5 flex items-center">
-                        <router-link class="pr-2.5" to="/services">Our Services</router-link>
+                        <router-link @click="toggleBurger" class="pr-2.5" to="/services">Our Services</router-link>
                         <div id="sub-menu" @click="toggleSubMenu" class="inline-block">
                             <svg id="sub-menu-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
@@ -43,15 +47,15 @@
                     </li>
                     <li id="sub-menu-items" class="py-5 text-xl hidden">
                         <ul>
-                            <li class="pb-3 px-5"><router-link to="/services/transportation">Transportation</router-link></li>
-                            <li class="py-3 px-5"><router-link to="/services/freight">Freight (Sea/Air)</router-link></li>
-                            <li class="py-3 px-5"><router-link to="/services/contract-logistics">Contract Logistics</router-link></li>
-                            <li class="py-3 px-5"><router-link to="/services/custom-clearance">Custom Clearance</router-link></li>
-                            <li class="pt-3 px-5"><router-link to="/services/warehousing">Warehousing</router-link></li>
+                            <li class="pb-3 px-5"><router-link @click="toggleBurger" to="/services/transportation">Transportation</router-link></li>
+                            <li class="py-3 px-5"><router-link @click="toggleBurger" to="/services/freight">Freight (Sea/Air)</router-link></li>
+                            <li class="py-3 px-5"><router-link @click="toggleBurger" to="/services/contract-logistics">Contract Logistics</router-link></li>
+                            <li class="py-3 px-5"><router-link @click="toggleBurger" to="/services/custom-clearance">Custom Clearance</router-link></li>
+                            <li class="pt-3 px-5"><router-link @click="toggleBurger" to="/services/warehousing">Warehousing</router-link></li>
                         </ul>
                     </li>
                     <li class="py-5">
-                        <router-link class="" to="/contact">Contact Us</router-link>
+                        <router-link @click="toggleBurger" class="" to="/contact">Contact Us</router-link>
                     </li>
                 </ul>
             </nav>

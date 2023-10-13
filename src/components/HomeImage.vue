@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-gradient-to-t from-transparent to-white relative">
-        <div class="mix-blend-overlay h-screen bg-[url('../src/assets/home.png')] bg-cover bg-bottom">
+    <div class="relative text-white">
+        <div class="hero h-screen">
         </div>
         <div class="absolute top-[15%] left-1/2 transform -translate-x-1/2 text-center">
             <h1 class="font-asul font-bold text-2xl md:text-4xl">HIJRA Shipping </h1>
@@ -16,5 +16,11 @@
 </script>
 
 <style scoped>
+
+.hero {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.00) 100%), url('../assets/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+}
 
 </style>

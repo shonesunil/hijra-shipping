@@ -1004,10 +1004,6 @@ video {
   background-image: url('../src/assets/freight/freight-main.jpeg');
 }
 
-.bg-\[url\(\'\.\.\/src\/assets\/home\.png\'\)\]{
-  background-image: url('../src/assets/home.png');
-}
-
 .bg-\[url\(\'\.\.\/src\/assets\/landing\.jpg\'\)\]{
   background-image: url('../src/assets/landing.jpg');
 }

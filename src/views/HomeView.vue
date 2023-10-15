@@ -58,7 +58,7 @@
 
       <div @mouseover="img1Hovered = true" @mouseout="img1Hovered = false" class="md:col-span-1 lg:col-span-2 h-[420px] relative mb-3 md:mb-0 overflow-hidden">
         <router-link to="/services/transportation">
-          <img :class="{ 'scale-110': img1Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/transportation/transportation-main.jpeg" alt="Transportation">
+          <img :class="{ 'scale-110': img1Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/transportation/transportation-main-compressed.jpg" alt="Transportation">
           <div class="absolute inset-0 flex items-center justify-center text-white text-xl lg:text-3xl">
             <span class="bg-blur">Transportation</span>
           </div>
@@ -66,7 +66,7 @@
       </div>
       <div @mouseover="img2Hovered = true" @mouseout="img2Hovered = false" class="md:col-span-1 lg:col-span-2 h-[420px] relative mb-3 md:mb-0 overflow-hidden">
         <router-link to="/services/freight">
-          <img :class="{ 'scale-110': img2Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/freight/freight-main.jpeg" alt="Freight">
+          <img :class="{ 'scale-110': img2Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/freight/freight-main-compressed.jpg" alt="Freight">
           <div class="absolute inset-0 flex items-center justify-center text-white text-xl lg:text-3xl">
             <span class="bg-blur">Freight (Sea/Air)</span>
           </div>
@@ -74,7 +74,7 @@
       </div>
       <div @mouseover="img3Hovered = true" @mouseout="img3Hovered = false" class="md:col-span-1 lg:col-span-2 h-[420px] relative mb-3 md:mb-0 overflow-hidden">
         <router-link to="/services/contract-logistics">
-          <img :class="{ 'scale-110': img3Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/contract-logistics/contract-logistics-main.png" alt="Contract Logistics">
+          <img :class="{ 'scale-110': img3Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/contract-logistics/contract-logistics-main-compressed.jpg" alt="Contract Logistics">
           <div class="absolute inset-0 flex items-center justify-center text-white text-xl lg:text-3xl">
             <span class="bg-blur">Contract Logistics</span>
           </div>
@@ -82,7 +82,7 @@
       </div>
       <div @mouseover="img4Hovered = true" @mouseout="img4Hovered = false" class="md:col-span-1 lg:col-span-3 h-[420px] relative mb-3 md:mb-0 overflow-hidden">
         <router-link to="/services/custom-clearance">
-          <img :class="{ 'scale-110': img4Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/custom-clearance/custom-clearance-main.jpeg" alt="Custom Clearance">
+          <img :class="{ 'scale-110': img4Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/custom-clearance/custom-clearance-main-compressed.jpg" alt="Custom Clearance">
           <div class="absolute inset-0 flex items-center justify-center text-white text-xl lg:text-3xl">
             <span class="bg-blur">Custom Clearance</span>
           </div>
@@ -90,7 +90,7 @@
       </div>
       <div @mouseover="img5Hovered = true" @mouseout="img5Hovered = false" class="md:col-span-2 lg:col-span-3 h-[420px] relative md:mb-0 overflow-hidden">
         <router-link to="/services/warehousing">
-          <img :class="{ 'scale-110': img5Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/warehousing/warehousing-main.jpeg" alt="Warehousing">
+          <img :class="{ 'scale-110': img5Hovered }" class="brightness-50 h-full w-full transition ease-linear duration-150 object-cover" src="../assets/warehousing/warehousing-main-compressed.jpg" alt="Warehousing">
           <div class="absolute inset-0 flex items-center justify-center text-white text-xl lg:text-3xl">
             <span class="bg-blur">Warehousing</span>
           </div>

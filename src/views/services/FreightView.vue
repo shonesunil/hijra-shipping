@@ -1,15 +1,15 @@
 <template>
     <div class="px-4 py-5 md:py-0 font-raleway">
-        <img class="hidden md:block h-[80vh] w-full object-cover brightness-50" src="../../assets/freight/freight-main.jpeg" alt="">
+        <img class="hidden md:block h-[80vh] w-full object-cover brightness-50" src="../../assets/freight/freight-main.jpg" alt="">
         <div class="flex flex-nowrap overflow-x-auto md:hidden">
             <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
-            <img class="w-full h-full object-cover" src="../../assets/freight/freight-main.jpeg" alt="">
+            <img class="w-full h-full object-cover" src="../../assets/freight/freight-main.jpg" alt="">
             </div>
             <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
-            <img class="w-full h-full object-cover" src="../../assets/freight/freight-2.jpeg" alt="">
+            <img class="w-full h-full object-cover" src="../../assets/freight/freight-2.jpg" alt="">
             </div>
             <div class="shrink-0 h-[260px] md:h-[85vh] w-full mr-2">
-            <img class="w-full h-full object-cover object-left" src="../../assets/freight/freight-4.jpeg" alt="">
+            <img class="w-full h-full object-cover object-left" src="../../assets/freight/freight-4.jpg" alt="">
             </div>
         </div>
         <div class="md:flex justify-between md:pl-24">
@@ -24,10 +24,10 @@
             </div>
             <div class="hidden mt-7 mr-12 md:grid grid-flow-row grid-cols-10 basis-1/3">
                 <div class="col-span-9 col-start-2 rounded-lg overflow-hidden">
-                    <img class="w-full h-full object-cover object-left rounded-lg" src="../../assets/freight/freight-2.jpeg" alt="">
+                    <img class="w-full h-full object-cover object-left rounded-lg" src="../../assets/freight/freight-2.jpg" alt="">
                 </div>
                 <div class="col-span-10 mt-7 rounded-lg overflow-hidden">
-                    <img class="w-full rounded-lg" src="../../assets/freight/freight-4.jpeg" alt="">
+                    <img class="w-full rounded-lg" src="../../assets/freight/freight-4.jpg" alt="">
                 </div>
             </div>
 

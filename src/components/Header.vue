@@ -4,7 +4,7 @@
             <div>
                 <router-link to="/">
                     <div class="flex items-center w-20 h-8 sm:w-24 md:w-36 md:h-[52px]">
-                        <img class="md:block" id="logo" src="../assets/Hijra_Logo.png" alt="logo">
+                        <img class="md:block" id="logo" src="../assets/Hijra_Logo.jpg" alt="logo">
                     </div>
                 </router-link>
             </div>

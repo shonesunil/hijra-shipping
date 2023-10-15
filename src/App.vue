@@ -1,5 +1,5 @@
 <template>
-  <Landing v-if="showLandingPage" @fade-out-landing="fadeOutLanding" />
+  <!-- <Landing v-if="showLandingPage" @fade-out-landing="fadeOutLanding" /> -->
   <!-- <HeaderCmp /> -->
   <TestHeader />
   <router-view/>

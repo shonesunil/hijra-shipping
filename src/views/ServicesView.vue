@@ -7,7 +7,7 @@
     <div class="text-white mt-6">
       <div class="h-[60vh] relative bg-gradient-to-b from-gray-500 to-black overflow-hidden rounded-lg mb-2 md:mb-4">
         <router-link to="/services/transportation">
-          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/transportation/transportation-main.jpeg')] bg-cover bg-bottom">
+          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/transportation/transportation-main.jpg')] bg-cover bg-bottom">
           </div>
           <div class="absolute bottom-0 pb-6 left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Transportation</span>
@@ -17,7 +17,7 @@
       </div>
       <div class="h-[60vh] relative bg-gradient-to-b from-stone-500 to-black overflow-hidden rounded-lg mb-2 md:mb-4">
         <router-link to="/services/freight">
-          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/freight/freight-main.jpeg')] bg-cover bg-center">
+          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/freight/freight-main.jpg')] bg-cover bg-center">
           </div>
           <div class="absolute bottom-0 pb-6 left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Freight (Sea/Air)</span>
@@ -27,7 +27,7 @@
       </div>
       <div class="h-[60vh] relative bg-gradient-to-b from-stone-500 to-black overflow-hidden rounded-lg mb-2 md:mb-4">
         <router-link to="/services/contract-logistics">
-          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/contract-logistics/contract-logistics-main.png')] bg-cover bg-center">
+          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/contract-logistics/contract-logistics-main.jpg')] bg-cover bg-center">
           </div>
           <div class="absolute bottom-0 pb-6 left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Contract Logistics</span>
@@ -37,7 +37,7 @@
       </div>
       <div class="h-[60vh] relative bg-gradient-to-b from-gray-500 to-black overflow-hidden rounded-lg mb-2 md:mb-4">
         <router-link to="/services/custom-clearance">
-          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/custom-clearance/custom-clearance-main.jpeg')] bg-cover bg-center">
+          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/custom-clearance/custom-clearance-main.jpg')] bg-cover bg-center">
           </div>
           <div class="absolute bottom-0 pb-6 left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Custom Clearance</span>
@@ -47,7 +47,7 @@
       </div>
       <div class="h-[60vh] relative bg-gradient-to-b from-gray-500 to-black overflow-hidden rounded-lg">
         <router-link to="/services/warehousing">
-          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/warehousing/warehousing-main.jpeg')] bg-cover bg-bottom">
+          <div class="h-[60vh] mix-blend-overlay bg-[url('../src/assets/warehousing/warehousing-main.jpg')] bg-cover bg-bottom">
           </div>
           <div class="absolute bottom-0 pb-6 left-[4%] mr-28">
             <span class="font-semibold text-xl md:text-3xl lg:text-4xl">Warehousing</span>

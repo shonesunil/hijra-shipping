@@ -13,13 +13,13 @@
     </div>
     <div class="basis-5/12 flex flex-nowrap overflow-x-auto shrink-0 md:grid md:grid-rows-3 md:grid-flow-col md:gap-2.5">
         <div class="shrink-0 h-[343px] w-full mr-2 md:mr-0 md:w-auto md:h-auto md:row-span-1">
-          <img class="w-full h-full object-cover" src="../assets/about-us/about-us-1.jpeg" alt="">
+          <img class="w-full h-full object-cover" src="../assets/about-us/about-us-1.jpg" alt="">
         </div>
         <div class="shrink-0 h-[343px] w-full mr-2 md:mr-0 md:w-auto md:h-auto md:row-span-2">
-          <img class="w-full h-full object-cover" src="../assets/about-us/about-us-2.png" alt="">
+          <img class="w-full h-full object-cover" src="../assets/about-us/about-us-2.jpg" alt="">
         </div>
         <div class="shrink-0 h-[343px] w-full mr-2 md:mr-0 md:w-auto md:h-full md:row-span-3">
-          <img class="w-full h-full object-cover object-left" src="../assets/about-us/about-us-3.jpeg" alt="">
+          <img class="w-full h-full object-cover object-left" src="../assets/about-us/about-us-3.jpg" alt="">
         </div>
     </div>
   </div>

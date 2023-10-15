@@ -15,7 +15,7 @@
         <div class="md:flex justify-between md:pl-24">
             <div class="my-10 md:mt-16 md:mb-60 md:mr-40 basis-2/3">
                 <h1 class="font-playfair text-[28px] md:text-5xl font-semibold">Custom Clearance</h1>
-                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg">
+                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg font-light">
                     <p>Hijra Shipping & Forwarding LLC is one of the leading Customs Clearing agents in UAE, providing a wide variety of services to assist customers in import and export customs clearances. Our company is always updated with modernized customs laws and systems. Hijra Shipping & Forwarding maintains the clearance of Sea, Air, and Land consignments more effectively.</p><br>
                     <p>We are a trustworthy and famous Customs clearance agent in Dubai, Sharjah, and Abu Dhabi providing excellent custom clearing services in the United Arab Emirates. We handle your parcel delivery with the expertise and care that you would expect from the world&apos;s leading Logistics Company.</p>
                 </div>

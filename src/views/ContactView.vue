@@ -8,15 +8,15 @@
             <div class="md:flex md:justify-between mt-8 md:mt-12">
                 <div class="inline-block">
                     <span class="block uppercase text-xs md:text-sm font-light">Phone</span>
-                    <span class="block text-base md:text-2xl mt-2">04 352 3733</span>
+                    <span class="block text-base md:text-2xl mt-2 whitespace-nowrap"><a href="tel:043523733">04 352 3733</a></span>
                 </div>
                 <div class="inline-block ml-24 md:ml-0">
                     <span class="block uppercase text-xs md:text-sm font-light">Fax</span>
-                    <span class="block text-base md:text-2xl mt-2">04 352 3744</span>
+                    <span class="block text-base md:text-2xl mt-2 whitespace-nowrap">04 352 3744</span>
                 </div>
                 <div class="mt-8 md:mt-0">
                     <span class="block uppercase text-xs md:text-sm font-light">Email</span>
-                    <span class="block text-base md:text-2xl mt-2">info@hijrashipping.com</span>
+                    <span class="block text-base md:text-2xl mt-2"><a href="mailto:info@hijrashipping.com">info@hijrashipping.com</a></span>
                 </div>
             </div>
             <div class="mt-8 md:mt-12">

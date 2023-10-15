@@ -15,9 +15,11 @@
         <div class="md:flex justify-between md:pl-24">
             <div class="my-10 md:mt-16 md:mb-60 md:mr-40 basis-2/3">
                 <h1 class="font-playfair text-[28px] md:text-5xl font-semibold">Freight (Sea/Air)</h1>
-                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg">
-                    <p>Hijra Shipping Air freight offers rates contracts with major airlines, import & exports consolidation connecting major airports, hand delivery & express door delivery services Our specialist handles your hazardous cargo for import & export through Abu Dhabi, Dubai, and Sharjah Airports. Import & Export Air freight is always our top priority, supported by global air shipment handling agency networks.</p><br>
-                    <p>We also provide comprehensive ocean services including FCL (Full Container Load) LCL (Loose cargo), Break Bulk, and RO-RO shipments from anywhere in the world to any destination through carefully selected global agency network and at the most competitive rates. We are associated with leading shipping lines for cargo movements from all the major ports of North & South America, Europe, Africa, the Middle East, South East Asia, the Far East, China, and Japan. This enables us to offer our valued customers quality service with the weekly sailing schedule with guaranteed space.</p>
+                <div class="mt-6 md:mt-10 text-justify text-sm md:text-lg font-light">
+                    <h1 class="font-playfair font-semibold text-lg md:text-[28px]">Sea Freight</h1>
+                    <p class="mt-4 md:mt-5">We also provide comprehensive ocean services including FCL (Full Container Load) LCL (Loose cargo), Break Bulk, and RO-RO shipments from anywhere in the world to any destination through carefully selected global agency network and at the most competitive rates. We are associated with leading shipping lines for cargo movements from all the major ports of North & South America, Europe, Africa, the Middle East, South East Asia, the Far East, China, and Japan. This enables us to offer our valued customers quality service with the weekly sailing schedule with guaranteed space.</p>
+                    <h1 class="mt-10 font-playfair font-semibold text-lg md:text-[28px]">Air Freight</h1>
+                    <p class="mt-4 md:mt-5">Hijra Shipping Air freight offers rates contracts with major airlines, import & exports consolidation connecting major airports, hand delivery & express door delivery services Our specialist handles your hazardous cargo for import & export through Abu Dhabi, Dubai, and Sharjah Airports. Import & Export Air freight is always our top priority, supported by global air shipment handling agency networks.</p>
                 </div>
             </div>
             <div class="hidden mt-7 mr-12 md:grid grid-flow-row grid-cols-10 basis-1/3">

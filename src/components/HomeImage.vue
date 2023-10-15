@@ -18,7 +18,7 @@
 <style scoped>
 
 .hero {
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 0%, rgba(0, 0, 0, 0.00) 100%), url('../assets/hero-image.jpg');
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.50) 0%, rgba(0, 0, 0, 0.50) 100%), url('../assets/hero-image.jpg');
     background-size: cover;
     background-position: center;
 }

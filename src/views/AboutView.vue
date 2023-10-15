@@ -4,7 +4,7 @@
       <span class="font-playfair font-semibold text-2xl md:text-5xl">About Us</span>
       <hr class="border-black my-4 md:my-7 w-36">
       <div class="text-sm md:text-lg font-light text-justify">
-        <p class="">Hijra Shipping & Forwarding LLC, is a leading freight forwarder compnay in the UAE, offering full range of freight business with the strong footing on the industry- experience.</p><br>
+        <p class="">Hijra Shipping & Forwarding LLC, is a leading freight forwarder company in the UAE, offering full range of freight business with the strong footing on the industry- experience.</p><br>
         <p class="">The company&apos;s present excellence can be attributed to its professional management approach along with long-serving customers across various industries, With more than a decade&apos;s reliable experience and in-depth knowledge of the freight forwarding industry, we have been able to provide state-of-the-art services to our clients worldwide.</p><br>
         <p class="">The company&apos;s Sea, Air & Land operations are fully networked with UAE Ports & Customs online facilities which enable us to provide prompt and fast services to our valued clients.</p>
         <p class="">We accept import & export around the world through our well-chosen worldwide agency networks so as to match our mission - Total Logistics Provider and offer highly professional and personalized service.</p><br>

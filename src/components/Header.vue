@@ -19,11 +19,28 @@
         </div>
 
         <!-- desktop nav -->
-        <nav class="font-raleway text-sm font-normal hidden md:block">
-            <router-link class="px-5 py-3" to="/">Home</router-link>
+        <nav class="font-raleway text-sm font-normal hidden md:flex flex-row">
+            <!-- <router-link class="px-5 py-3" to="/">Home</router-link>
             <router-link class="px-5 py-3" to="/about">About Us</router-link>
             <router-link class="px-5 py-3" to="/services">Our Services</router-link>
-            <router-link class="px-5 py-3" to="/contact">Contact Us</router-link>
+            <router-link class="px-5 py-3" to="/contact">Contact Us</router-link> -->
+            <div class="px-5 py-3">            
+                <router-link class="" to="/">Home</router-link>
+            </div>
+            <div class="px-5 py-3">            
+                <router-link class="" to="/about">About Us</router-link>
+            </div>
+            <div class="px-5 py-3">            
+                <router-link class="inline" to="/services">Our Services</router-link>
+                <span class="inline">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
+                    <path d="M10.5714 5.41724L5.99996 0.845808L1.42853 5.41724" stroke="black" stroke-width="1.14286" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+            </div>
+            <div class="px-5 py-3">            
+                <router-link class="" to="/contact">Contact Us</router-link>
+            </div>
         </nav>
 
         <!-- mobile nav-->

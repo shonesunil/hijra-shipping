@@ -15,7 +15,7 @@
         <div class="md:flex justify-between md:pl-24">
             <div class="my-10 md:mt-16 md:mb-60 md:mr-40 basis-2/3">
                 <h1 class="font-playfair text-[28px] md:text-5xl font-semibold">Contract Logistics</h1>
-                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg">
+                <div class="mt-6 md:mt-8 text-justify text-sm md:text-lg font-light">
                     <p>Contract logistics involves outsourcing all or some logistics operations to a third-party company, especially when you lack infrastructure, industry knowledge or you want to keep your business lean.</p><br>
                     <p>Hijra Shipping as your contracted logistics partner, we provide labor and equipment that include Multi-modal transportation, Order processing & fulfillment and warehouse service for the exclusive use of your business at a fixed monthly rate, regardless of the volume of transactions. Essentially, contract logistics in UAE refers to outsourced supply chain operations that go beyond storing and transporting goods & services.</p>
                 </div>

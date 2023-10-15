@@ -1,12 +1,14 @@
 <template>
   <Landing v-if="showLandingPage" @fade-out-landing="fadeOutLanding" />
-  <HeaderCmp />
+  <!-- <HeaderCmp /> -->
+  <TestHeader />
   <router-view/>
   <Footer></Footer>
 </template>
 
 <script>
   import HeaderCmp from './components/Header.vue'
+  import TestHeader from './components/TestHeader.vue'
   import Footer from './components/Footer.vue'
   import Landing from './components/Landing.vue'
 
@@ -15,17 +17,18 @@
   components: {
     HeaderCmp,
     Footer,
-    Landing
+    Landing,
+    TestHeader
   },
   data() {
     return {
-      showLandingPage: false
+      showLandingPage: true
     }
   },
   methods: {
     fadeOutLanding() {
-      // const body = document.querySelector('#main')
-      // body.classList.remove('overflow-hidden')
+      const body = document.querySelector('#main')
+      body.classList.remove('overflow-hidden')
       setTimeout(() => {
         this.showLandingPage = false;
       }, 500);

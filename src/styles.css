@@ -4,17 +4,21 @@
 @tailwind components;
 @tailwind utilities;
 
-nav a.router-link-exact-active {
+/* nav a.router-link-exact-active {
     @apply border-b border-black transition ease-in duration-300;
-}
+} */
 
-nav a#homeImg.router-link-exact-active {
+/* li a.router-link-exact-active {
+    @apply border-b border-black transition ease-in duration-300;
+}  */
+
+/* nav a#homeImg.router-link-exact-active {
     @apply border-0;
 }
 
 #menu nav a.router-link-exact-active {
     @apply border-0;
-}
+} */
 
 .flip {
     @apply rotate-180;
